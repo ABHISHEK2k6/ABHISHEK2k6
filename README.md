@@ -8,9 +8,14 @@
 
 ---
 ## Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/NextJs-black?style=for-the-badge&logo=nextdotjs) ![Static Badge](https://img.shields.io/badge/ReactJs-red?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white) ![Static Badge](https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/NextJs-black?style=for-the-badge&logo=nextdotjs) ![Static Badge](https://img.shields.io/badge/ReactJs-red?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=c&logoColor=white) 
 
 ---
+## Creative Stack:
+![Static Badge](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK2k6&show_icons=true&theme=radical" width="47%" />
