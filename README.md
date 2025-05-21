@@ -19,7 +19,8 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK2k6&show_icons=true&theme=radical&include_all_commits=true&count_private=false" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK2k6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ABHISHEK2k6&theme=neon&card_width=450&card_height=173" alt="GitHub Streak" /></a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK2k6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 ---
